@@ -1,1 +1,2 @@
-# geojson-
+File export.geojson ini merupakan hasil digitasi jaringan jalan pada salah satu wilayah desa yang divisualisasikan di peta seperti pada gambar.
+Data disimpan dalam format GeoJSON dengan tipe utama FeatureCollection, yang berisi 56 ruas jalan berbentuk garis (LineString).
